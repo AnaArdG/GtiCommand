@@ -1,3 +1,5 @@
+require 'greeter'
+
 #Default is "World"
 #Author: Ana Arduengo (ana.arduengo.g@gmail.com)
 name = ARGV.first || "World"
